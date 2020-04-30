@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "jquery": "^2.1.1",
+    "jquery": "^3.5.0",
     "jquery-parallax": "^1.0.1",
     "vue": "^2.5.11"
   },
